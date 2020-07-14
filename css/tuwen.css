@@ -1,0 +1,23 @@
+/* CSS Document */@charset "utf-8";
+body,p{ padding:0; margin:0; border:0;}
+.a{ 
+margin-right:50px;         /*ÉèÖÃÍ¼ÏñµÄÓÒÍâ±ß¾à*/
+	margin-top: 50px;
+	margin-left:60px; 
+	margin-bottom:50px;
+float:left;}
+span{ color:#CC3333;
+border:thick;
+text-indent:2em;
+}
+.b{ font-size:60px;}
+.c{ background:url(../images/a.jpg);     /*ÉèÖÃÍøÒ³µÄ±³¾°Í¼Ïñ*/
+    background-repeat: no-repeat;  
+	margin-top:0px;
+	height:700px;
+	background-position:center;
+	font-family:Arial;
+	font-size:36px;}
+.aa{ font-family:"ËÎÌå"; font-size:30px;}
+.cc{ color:#9900FF; border:thick;}
+p{ font-size:18px; font-family:"Î¢ÈíÑÅºÚ"; background-position:bottom; text-align:center; margin-bottom:20px;}
